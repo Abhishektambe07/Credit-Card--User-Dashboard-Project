@@ -64,7 +64,7 @@ Customers consistently using >80% of their credit limit tend to:
 ![image alt](https://github.com/Abhishektambe07/Credit-Card--User-Dashboard-Project/blob/main/Customer%20Report.png?raw=true)
 
 ## Transaction Dashboard
-![image alt]()
+![image alt](https://github.com/Abhishektambe07/Credit-Card--User-Dashboard-Project/blob/main/Transaction%20Report.png?raw=true)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🛠 Tools & Tech Stack
