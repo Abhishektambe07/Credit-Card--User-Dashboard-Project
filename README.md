@@ -60,6 +60,8 @@ Customers consistently using >80% of their credit limit tend to:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Dashboard Preview
+## Customer Report
+![image alt](https://github.com/Abhishektambe07/Credit-Card--User-Dashboard-Project/blob/main/Customer%20Report.png?raw=true)
 
 
 
